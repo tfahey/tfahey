@@ -1,4 +1,10 @@
-## Hi there 👋
+[![Bnreplah's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfahey&show_icons=true&theme=tokyonight)](https://github.com/tfahey)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfahey&layout=compact&theme=tokyonight)](https://github.com/tfahey)
+
+- 👋 Hi, I’m @tfahey
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning everything possible
+- 💞️ I’m looking to collaborate on anything you find intersting
+- 📫 How to reach me: If you really want to you will find a way
 
 <!--
 **tfahey/tfahey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
