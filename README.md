@@ -1,4 +1,4 @@
-[![Bnreplah's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfahey&show_icons=true&theme=tokyonight)](https://github.com/tfahey)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfahey&layout=compact&theme=tokyonight)](https://github.com/tfahey)
+[![Tfahey's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfahey&show_icons=true&theme=tokyonight)](https://github.com/tfahey)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfahey&layout=compact&theme=tokyonight)](https://github.com/tfahey)
 
 - 👋 Hi, I’m @tfahey
 - 👀 I’m interested in ...
